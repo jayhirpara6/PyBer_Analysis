@@ -12,3 +12,10 @@
 
 ![](../main/analysis/pyber_summary_chart.png)
 
+
+#### Summary
+
+######
+
+
+![](../main/analysis/Fare_by_City_Type.png)
