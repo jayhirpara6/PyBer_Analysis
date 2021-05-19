@@ -15,7 +15,7 @@
 
 #### Summary
 
-######
+###### As you can see below, the disparity among Fares per Ride based on the City Type is consistent throughout the year. Below, we have a graph showing the timeframe of January to April. To maybe close the gap between costs by City Type, you can maybe insert incentives to increase the number of fairs in suburban and rural cities as well as incentize drivers to visit those areas more frequently to lower the average cost.
 
 
 ![](../main/analysis/Fare_by_City_Type.png)
